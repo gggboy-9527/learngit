@@ -4,3 +4,4 @@
  now,we modified text for workspace and stage1.
  git track change.
  git track change second.
+ xxxxxxx.
