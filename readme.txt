@@ -10,3 +10,4 @@
  孙淑伟是渣男。
  git more branch.
 branch
+Creating a new branch is quick AND simple
