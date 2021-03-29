@@ -7,7 +7,7 @@
  xxxxxxx.
  yyyyyy.
  OK,i can use github.
- 孙淑伟是渣男。
+ 孙淑伟是渣男。bug 修复 他不是。
  git more branch.
 branch xxx
 Creating a new branch is quick and simple.
