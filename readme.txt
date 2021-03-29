@@ -13,9 +13,4 @@ branch xxx
 Creating a new branch is quick and simple.
 2021 03 29 no fast forward.
 
-now dev was working......
-<<<<<<< HEAD
-
-now dev was working......222222
-=======
->>>>>>> 5247d87... ok
+now dev was working......33333
